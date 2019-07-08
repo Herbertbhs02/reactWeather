@@ -1,2 +1,0 @@
-# reactWeather
-Created with CodeSandbox
